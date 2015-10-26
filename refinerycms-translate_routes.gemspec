@@ -4,6 +4,7 @@ Gem::Specification.new do |s|
   s.platform          = Gem::Platform::RUBY
   s.name              = 'refinerycms-translate_routes'
   s.version           = '1.0'
+  s.authors           = ['']
   s.description       = 'Ruby on Rails Translate Routes extension for Refinery CMS'
   s.date              = '2012-10-26'
   s.summary           = 'Translate Routes extension for Refinery CMS'
